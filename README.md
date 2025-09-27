@@ -1,17 +1,20 @@
-## Hi there 👋 I'm Sangavi
-
-Frontend Developer  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🔭 Here's my [Portfolio](https://sangavifrontend.netlify.app/)  
-- 🌱 I’m currently learning **React**  
 - 💻 BCA Graduate – Kalasalingam Academy of Research and Education (CGPA: 8.51)  
 - ⚡ Fun fact: I love building  websites
 
 ### Social Presence
 <br /> 
-[![LinkedIn](<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>)](www.linkedin.com/in/ssangavi) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://sangavifrontend.netlify.app/)
+<p float="left">
+  <a href="https://www.linkedin.com/in/ssangavi">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40"/>
+  </a>
+  <a href="https://github.com/ssangavi">
+    <img src="https://img.icons8.com/color/48/000000/github.png" height="40"/>
+  </a>
+  <a href="https://sangavifrontend.netlify.app/">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" height="40"/>
+  </a>
+</p>
+
 
 ### I code in
 <p align="left">
