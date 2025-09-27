@@ -10,7 +10,7 @@ Frontend Developer
 
 ### Social Presence
 <br /> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ssangavi) 
+[![LinkedIn](<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>)](www.linkedin.com/in/ssangavi) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://sangavifrontend.netlify.app/)
 
 ### I code in
