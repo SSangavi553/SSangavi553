@@ -7,6 +7,7 @@ Frontend Developer
 - 🌱 I’m currently learning **React**  
 - 💻 BCA Graduate – Kalasalingam Academy of Research and Education (CGPA: 8.51)  
 - ⚡ Fun fact: I love building  websites
+
 ### Social Presence
 <br /> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ssangavi) 
